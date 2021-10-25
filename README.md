@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xMaaz
+- 👋 Hi, I’m @MaazV
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Projects on the Ethereum Network
